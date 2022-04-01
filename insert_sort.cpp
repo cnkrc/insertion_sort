@@ -31,7 +31,7 @@ int main(){
 
     vector<int> serie;
     vector<int> res;
-    cout<<"Please enter the elements of the serie\n";
+    cout<<"Please enter the elements of the vector\n";
 
     for(i=0;i<n;i++){
         cin>>a;
